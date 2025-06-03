@@ -28,13 +28,13 @@ This is a simple but visually appealing Background color switcher. You can click
 
 ## Live Demo
 
-- [View it Live on Vercel]()
+- [View it Live on Vercel](https://color--switcher.vercel.app/)
 
 ---
 
 ## Author/Creator
 
 Madeby **Pratham Gambhir**
-- Connect with me at [X(formerly Twitter)]('https://x.com/_PrathamGambhir?t=7gdS_5RUJ6gwFd14OapSeQ&s=09') 
+- Connect with me at [X(formerly Twitter)](https://x.com/_PrathamGambhir?t=7gdS_5RUJ6gwFd14OapSeQ&s=09) 
 
 
