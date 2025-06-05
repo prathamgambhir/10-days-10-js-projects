@@ -10,7 +10,7 @@ This is a simple and elegant BMI (Body Mass Index) Calculator built using **HTML
 
 ##  Live Demo
 
-- [View live Here]()
+- [View live Here](https://get-bmi.vercel.app/)
 
 ---
 

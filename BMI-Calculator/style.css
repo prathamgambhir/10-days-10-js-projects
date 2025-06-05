@@ -2,7 +2,7 @@ body {
     margin: 0;
     border: border-box;
     font-family:'Courier New', Courier, monospace;
-    background-image: url('../BMI-Calculator/images/main-bgd.png');
+    background-image: url('./images/main-bgd.png');
     background-size: cover;
 }
 
