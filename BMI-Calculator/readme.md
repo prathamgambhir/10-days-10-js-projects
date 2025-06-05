@@ -8,13 +8,13 @@ This is a simple and elegant BMI (Body Mass Index) Calculator built using **HTML
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-👉 [View live Heret]()
+- [View live Here]()
 
 ---
 
-## 📌 Features
+## Features
 
 - Clean and minimal UI
 - Background image for health & fitness feel
@@ -41,25 +41,13 @@ This is a simple and elegant BMI (Body Mass Index) Calculator built using **HTML
 
 ---
 
-## Contributors
-
-Contributions, issues, and feature requests are welcome!  
-If you’d like to fork or contribute:
-1. Fork this repo
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).  
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 Made by **Pratham Gambhir**  
 🔗 [GitHub](https://github.com/prathamgambhir)  
