@@ -10,7 +10,9 @@ The goal of this challenge is to improve DOM manipulation skills, work on mini f
 
 | S.No | Project Name         | Folder Link                                                 | Live Demo                                           | Description                                      |
 |------|----------------------|-------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------|
-| 1    | Color Switcher       | [ColorSwitcher](./Color-Switcher)                           | [Live](https://color--switcher.vercel.app/)                                            | Click on colored blocks to change background     |
+| 1    | Color Switcher       | [ColorSwitcher](./Color-Switcher)                           | [Live](https://color--switcher.vercel.app/)         | Click on colored blocks to change background     |
+| 2    | BMI Calculator       | [Folder](./BMI-Calculator)                                  | [Live]()                                            | Calculates BMI and gives health category         |
+
 
 ---
 
