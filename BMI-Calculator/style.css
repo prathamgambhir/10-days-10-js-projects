@@ -3,7 +3,12 @@ body {
     border: border-box;
     font-family:'Courier New', Courier, monospace;
     background-image: url('./images/main-bgd.png');
-    background-size: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 main {
@@ -17,7 +22,6 @@ main {
 .container {
     height: 800px;
     margin: 40px;
-    /* margin-left: 31%; */
     width: 36%;
     background-color: white;
     border: 2px solid rgb(0, 0, 0) 0.8;
@@ -141,11 +145,10 @@ main {
 
 @media screen and (max-width: 923px){
     body {
-        background-size: cover;
         background-image: url('./images/main-bgd-mobile.jpg');
-        background-size: cover;
+        background-size: auto;
     }
-    
+
     .container {
         width: 75%;
         margin: 20px auto;
@@ -169,9 +172,8 @@ main {
 
 @media screen and (max-width: 443px) {
     body {
-        background-size: cover;
         background-image: url('./images/main-bgd-mobile.jpg');
-        background-size: cover;
+        background-size: auto;
     }
     
     .container {
