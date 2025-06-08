@@ -12,7 +12,7 @@ A beautifully designed and fully responsive To-Do List application built using *
 
 ## Live Demo
 
-[Click here to view live app]()
+[Click here to view live app](https://todo--task.vercel.app/)
 
 ------------
 

@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: cursive;
+  font-family:'Courier New', Courier, monospace;
   color: white;
   height: 100vh;
   width: 100vw;
