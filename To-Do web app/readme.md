@@ -4,6 +4,18 @@ A beautifully designed and fully responsive To-Do List application built using *
 
 -------------
 
+## Preview
+
+![screenshot](./images-todo/preview.png)
+
+-------------
+
+## Live Demo
+
+[Click here to view live app]()
+
+------------
+
 ## Features
 
 - Add tasks with a single click
@@ -15,18 +27,6 @@ A beautifully designed and fully responsive To-Do List application built using *
 
 -------------
 
-## Screenshot
-
-![screenshot](./images-todo/screenshot.jpg)
-
--------------
-
-## Live Demo
-
-[Click here to view live app]()
-
-------------
-
 ## Tech Stack
 
 - HTML
@@ -34,14 +34,14 @@ A beautifully designed and fully responsive To-Do List application built using *
 - JavaScript
 
 -------------
-## 🧠 What I Learned
+
+## What I Learned
 
 - Flexbox layout with wrapping and alignment
 - How to use local storage to save data
 - How to clear the data from local storage
 - DOM manipulation using JavaScript
 - Creating mobile-first designs with media queries
-- CSS `backdrop-filter` and `box-shadow` effects
 
 ------------------
 

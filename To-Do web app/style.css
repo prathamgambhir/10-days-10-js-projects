@@ -15,7 +15,7 @@ body {
 .bgd {
   min-height: 100vh;
   width: 100%;
-  background-image: url(../Proj4_ToDoList_web/images-todo/main-bgd.jpg);
+  background-image: url('./images-todo/main-bgd.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
